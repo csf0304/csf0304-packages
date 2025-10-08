@@ -35,13 +35,17 @@ gzip -k -f dists/stable/main/binary-all/Packages
 
 echo "生成 Release 文件..."
 cd dists/stable
-apt-ftparchive release . > Release.tmp
-head -n 7 Release.tmp > Release.header
-echo "Architectures: aarch64 all" >> Release.header
-echo "Components: main" >> Release.header
-tail -n +8 Release.tmp >> Release.header
-mv Release.header Release
-rm -f Release.tmp
+cat > Release << EOF
+Origin: csf0304
+Label: csf0304 Repo
+Suite: stable
+Codename: stable
+Architectures: aarch64 all
+Components: main
+Description: csf0304's Termux package repository
+Date: $(date -Ru)
+EOF
+apt-ftparchive release . >> Release
 cd "$REPO_DIR"
 
 echo "签名 Release 文件..."
