@@ -38,6 +38,7 @@ cat > Release << EOF
 Origin: csf0304 Repo
 Label: csf0304 Repo
 Suite: csf0304
+Version: 1.0
 Codename: stable
 Architectures: aarch64 all
 Components: main
