@@ -1,8 +1,17 @@
-Origin: csf0304
-Label: csf0304 Repo
-Suite: stable
-Codename: termux
-Architectures: aarch64 all
-Components: main
-Description: csf0304's Termux package repository
-Date: Wed, 08 Oct 2025 08:43:39 +0000
+Date: Wed, 08 Oct 2025 08:44:21 +0000
+MD5Sum:
+ 380b7031d8b9fa0ee864819ffbfffb32             1137 Packages
+ aabaa79b1fcd02a30bfc1d035f04cb74              687 Packages.gz
+ 37b8d2ccfa0e29a1bdea19e33c7cf1d6               38 Release
+SHA1:
+ 668dcba6bb94fc2148278d0ae706f0ddf8b0da65             1137 Packages
+ 5360ab14219f7b9890c88b4a72650dfd10de9859              687 Packages.gz
+ 8b2ef8fe17d11142fa5d501feda2ffd3f54f1ad0               38 Release
+SHA256:
+ 4dcf61bc7ff678621fb7f0d95ba39bffe4b2d0c5f9b727fc98b18df379305b9a             1137 Packages
+ 241d874cdc71a04bb801d71344a950c83d8a1c92897ce221f84742ffca00ff92              687 Packages.gz
+ 1f5ff0fed3d777b411acadc42c46489114e3f443fb61c2f8af77940a99c1f867               38 Release
+SHA512:
+ 1ac01f67f2b08b43439f1aac3028034ec28a0266073d83f8c7e9ef0f9bceb74a897f6e8fbeb4edb222cd1aed182d6072c5ecbcc81183ffc355097a7dc3e4ff0c             1137 Packages
+ 8f1dce6caa1cc9aaafe0627039de3cd88df825442152dcd08ee85a95a545bc5a8e0888cbfdeb97ad518f817a7c89bdd1464bb7502e1eacff1017bd1d02456dc8              687 Packages.gz
+ 4ef421752c1d72372b2048641c14d921ef1ca133cd805668b5236d3a85ec07fe2284142e77022bb6b699417da71f60ce29bff81b3c19ce928b6b33a2c429696b               38 Release
