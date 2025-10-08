@@ -43,7 +43,6 @@ Codename: stable
 Architectures: aarch64 all
 Components: main
 Description: csf0304's Termux package repository
-Date: $(date -Ru)
 EOF
 apt-ftparchive release . >> Release
 cd "$REPO_DIR"
