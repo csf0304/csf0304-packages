@@ -4,41 +4,41 @@ Hash: SHA512
 Origin: csf0304
 Label: csf0304 Repo
 Suite: stable
-Codename: stable
+Codename: csf0304
 Architectures: aarch64 all
 Components: main
 Description: csf0304's Termux package repository
-Date: Wed, 08 Oct 2025 09:33:10 +0000
-Date: Wed, 08 Oct 2025 09:33:10 +0000
+Date: Wed, 08 Oct 2025 10:13:59 +0000
+Date: Wed, 08 Oct 2025 10:13:59 +0000
 MD5Sum:
- 7deb3cf81e98a0df5fa4340318572e3f              236 Release
+ 7a43170a1c4e275ee16b10ad0ffa3812              237 Release
  fa940e14df4ef3a411d45106a8d06eb0             1153 main/binary-aarch64/Packages
- 7b44b36c2859fd14747b9f3c76d72f6d              694 main/binary-aarch64/Packages.gz
+ d67abeabacecaeac21efc2dc1475989c              694 main/binary-aarch64/Packages.gz
  fa940e14df4ef3a411d45106a8d06eb0             1153 main/binary-all/Packages
- 7b44b36c2859fd14747b9f3c76d72f6d              694 main/binary-all/Packages.gz
+ d67abeabacecaeac21efc2dc1475989c              694 main/binary-all/Packages.gz
 SHA1:
- 4dc2bd59e563273b48a3d4f5f574863e9f52b01b              236 Release
+ 5e31acb98f4b19521696d09d09bd5ddee0bec8a2              237 Release
  67eddbba7c0c6e4d25537c89acfdf526d1f5c6c1             1153 main/binary-aarch64/Packages
- fe500a1a70075fd799068fcd791c113e1e21370e              694 main/binary-aarch64/Packages.gz
+ 594c0d3a1e64b89329d5dfc771d00f9f79f496e5              694 main/binary-aarch64/Packages.gz
  67eddbba7c0c6e4d25537c89acfdf526d1f5c6c1             1153 main/binary-all/Packages
- fe500a1a70075fd799068fcd791c113e1e21370e              694 main/binary-all/Packages.gz
+ 594c0d3a1e64b89329d5dfc771d00f9f79f496e5              694 main/binary-all/Packages.gz
 SHA256:
- 90ee98a62927ba59b1f320b3975e97872556bed5fce524b534e0355868b31ae0              236 Release
+ 5720599d93973bdc067e1e3b637278a7ba5c57f851b8a9de88a85b289b9a5b15              237 Release
  4cf2f6f5a3219689360e0a791cf49ade718cd5505156499f40899d67383ae958             1153 main/binary-aarch64/Packages
- 1c972a971e76be8c26ba843eae637030f7af71edd417ea5f0fc6f141292df494              694 main/binary-aarch64/Packages.gz
+ ab2b032004ed290df44a53ea52676dac10aa342126fee3870777236648931d48              694 main/binary-aarch64/Packages.gz
  4cf2f6f5a3219689360e0a791cf49ade718cd5505156499f40899d67383ae958             1153 main/binary-all/Packages
- 1c972a971e76be8c26ba843eae637030f7af71edd417ea5f0fc6f141292df494              694 main/binary-all/Packages.gz
+ ab2b032004ed290df44a53ea52676dac10aa342126fee3870777236648931d48              694 main/binary-all/Packages.gz
 SHA512:
- 84c81179f84b22508d5ff1fa4b5724cbb9640b899e655c0a392d5271babdce2ca658abcaf0520f89160190ad8adb696f5eec676c9218aa7f89c27aa326e6c8a3              236 Release
+ 89d26d50a18845cb714f0ef643b9fb0e9ebad503d2df7d04ce68878011f3431ee65b7b79aecd8f1e0ac3ff993c5af9c53fc4047a526b174075376237b01e3f6c              237 Release
  3f971a194d8a3ecf453472ba0e25a87417a4500467c4c4eaac9dfd67f8f7896f951620338f66c45e4944ca66d5f7b087b99cd110566a31a6e5fa17408d20042d             1153 main/binary-aarch64/Packages
- 4c48c755498b017966bc2f9853933dc8c533a5cddb2dfad48ff9c9b9e1bc9e8d4426d50ed37662994c00a531ac8f4f0dd6beebd4807492880703c8324de53e20              694 main/binary-aarch64/Packages.gz
+ 843a50942118306375ef74f9be7ef1e011ccac16b8e417501963bbf4494fad8f5c0eefd501e9f1a83cd8dfa22fbcdfb5b3b42e3d3eaf8252b88579861b0e3171              694 main/binary-aarch64/Packages.gz
  3f971a194d8a3ecf453472ba0e25a87417a4500467c4c4eaac9dfd67f8f7896f951620338f66c45e4944ca66d5f7b087b99cd110566a31a6e5fa17408d20042d             1153 main/binary-all/Packages
- 4c48c755498b017966bc2f9853933dc8c533a5cddb2dfad48ff9c9b9e1bc9e8d4426d50ed37662994c00a531ac8f4f0dd6beebd4807492880703c8324de53e20              694 main/binary-all/Packages.gz
+ 843a50942118306375ef74f9be7ef1e011ccac16b8e417501963bbf4494fad8f5c0eefd501e9f1a83cd8dfa22fbcdfb5b3b42e3d3eaf8252b88579861b0e3171              694 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iJEEARYKADkWIQSWKyMGQFJ/bmh5uPE5/67RyTVtZwUCaOYv1xsUgAAAAAAEAA5t
-YW51MiwyLjUrMS4xMSwzLDIACgkQOf+u0ck1bWfevgD/Z/KY6Os+pQ1rYI1FSPil
-sd1fZ9fAUqYvFHZZF5DeI8MA/icEW0TYn1uhMlhUqSL0x9BnIdi5sj9its12Uont
-ZFMA
-=tF/d
+iJEEARYKADkWIQSWKyMGQFJ/bmh5uPE5/67RyTVtZwUCaOY5aRsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMSwzLDIACgkQOf+u0ck1bWfcaQEA6qnHw2vZAEHxmKDuJ4RX
+nnI2oyz/+0gdY4X1BKYqo0QA/3H1JdGIvfS0FV9Z0nPPK0kI3mihpnJ+VO1ddAB/
+KJUJ
+=7UNS
 -----END PGP SIGNATURE-----
