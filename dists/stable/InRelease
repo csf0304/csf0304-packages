@@ -3,42 +3,42 @@ Hash: SHA512
 
 Origin: csf0304 Repo
 Label: csf0304 Repo
-Suite: csf0304-packages
-Codename: stable-packages
+Suite: csf0304
+Codename: stable
 Architectures: aarch64 all
 Components: main
 Description: csf0304's Termux package repository
-Date: Wed, 08 Oct 2025 12:12:55 +0000
-Date: Wed, 08 Oct 2025 12:12:55 +0000
+Date: Wed, 08 Oct 2025 12:14:50 +0000
+Date: Wed, 08 Oct 2025 12:14:50 +0000
 MD5Sum:
- 6614b77ccac5821ae7c32ad047f7f634              260 Release
+ 741d99854bdecb0071176ecf218ccabf              242 Release
  fa940e14df4ef3a411d45106a8d06eb0             1153 main/binary-aarch64/Packages
- 41df27a6b60ad12f0a4123fe1a3a2c58              694 main/binary-aarch64/Packages.gz
+ 09a608810a82e2fe1f1bddb6dc652005              694 main/binary-aarch64/Packages.gz
  fa940e14df4ef3a411d45106a8d06eb0             1153 main/binary-all/Packages
- 41df27a6b60ad12f0a4123fe1a3a2c58              694 main/binary-all/Packages.gz
+ 09a608810a82e2fe1f1bddb6dc652005              694 main/binary-all/Packages.gz
 SHA1:
- 9101e631ba4a2fa84033d4e7c205aadb4b76a145              260 Release
+ 0d6c1ee63dd23daa8744bbe22b837691a275c836              242 Release
  67eddbba7c0c6e4d25537c89acfdf526d1f5c6c1             1153 main/binary-aarch64/Packages
- eb986b3218db2813b3b8f74027739ba22d1a3ecd              694 main/binary-aarch64/Packages.gz
+ 04a146206cdb82ea123bfb4785f5b5d75d84b590              694 main/binary-aarch64/Packages.gz
  67eddbba7c0c6e4d25537c89acfdf526d1f5c6c1             1153 main/binary-all/Packages
- eb986b3218db2813b3b8f74027739ba22d1a3ecd              694 main/binary-all/Packages.gz
+ 04a146206cdb82ea123bfb4785f5b5d75d84b590              694 main/binary-all/Packages.gz
 SHA256:
- f391c4176816ff196777a1cafa8da2680b2a235f4c035db40fdd1d90853c4317              260 Release
+ 677f212c745456242a73fc9c8d47cec592ffb393a32f32325c539e8635a5bcf4              242 Release
  4cf2f6f5a3219689360e0a791cf49ade718cd5505156499f40899d67383ae958             1153 main/binary-aarch64/Packages
- ca594a430bfba40da4f8a42bcff75a2779e55b5ef2b4ff94610bdfe4bf5326f3              694 main/binary-aarch64/Packages.gz
+ 79562029f7a92f50e88c2f74aa90e7ab6fba41029b3850466422e68e5f4fd510              694 main/binary-aarch64/Packages.gz
  4cf2f6f5a3219689360e0a791cf49ade718cd5505156499f40899d67383ae958             1153 main/binary-all/Packages
- ca594a430bfba40da4f8a42bcff75a2779e55b5ef2b4ff94610bdfe4bf5326f3              694 main/binary-all/Packages.gz
+ 79562029f7a92f50e88c2f74aa90e7ab6fba41029b3850466422e68e5f4fd510              694 main/binary-all/Packages.gz
 SHA512:
- 97a011f8daf04bfd5dd16103e05934ab35c4696e7dc16513969552c19f40c9fa386437defa733e8458502338f3eac933d4373709846af9e5654740fedbf04426              260 Release
+ 4073307b54d99024705e8f600b26c88daccaddae511ae04bf5bd403681670fc9b9fdd2f02a552fed26e7a38a804a09c1805a81881473d4a6b165f447e5b6e139              242 Release
  3f971a194d8a3ecf453472ba0e25a87417a4500467c4c4eaac9dfd67f8f7896f951620338f66c45e4944ca66d5f7b087b99cd110566a31a6e5fa17408d20042d             1153 main/binary-aarch64/Packages
- 7ba49deb609dea6bd12352052324d9f242c1401dc9716ad966fe4a805d561c09bd4f39573f0a78f3864f5619b54227a09c6be9f9add1b2f5700c72bb16c72194              694 main/binary-aarch64/Packages.gz
+ 472dc2a4d1f486292fd0c1f46dfef38a761e4564a1006e569a37295b74820adf8c528758b70cc1d8d1aa6c89895c340664daf0f1bcec416b0b78c6355fae48bc              694 main/binary-aarch64/Packages.gz
  3f971a194d8a3ecf453472ba0e25a87417a4500467c4c4eaac9dfd67f8f7896f951620338f66c45e4944ca66d5f7b087b99cd110566a31a6e5fa17408d20042d             1153 main/binary-all/Packages
- 7ba49deb609dea6bd12352052324d9f242c1401dc9716ad966fe4a805d561c09bd4f39573f0a78f3864f5619b54227a09c6be9f9add1b2f5700c72bb16c72194              694 main/binary-all/Packages.gz
+ 472dc2a4d1f486292fd0c1f46dfef38a761e4564a1006e569a37295b74820adf8c528758b70cc1d8d1aa6c89895c340664daf0f1bcec416b0b78c6355fae48bc              694 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iJEEARYKADkWIQSWKyMGQFJ/bmh5uPE5/67RyTVtZwUCaOZVSRsUgAAAAAAEAA5t
-YW51MiwyLjUrMS4xMSwzLDIACgkQOf+u0ck1bWcqmQEA5qZaSYefP7X4FKId+y+F
-f2AsAyRxlfH8Ejdaw0Vp5IAA/2GsQiLUOS/7YOLTY12JY//FKQBeNJkUhlZQAN5C
-RUMJ
-=DOw8
+iJEEARYKADkWIQSWKyMGQFJ/bmh5uPE5/67RyTVtZwUCaOZV6xsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMSwzLDIACgkQOf+u0ck1bWdPOAEAuxmdH+IuXvo0w/AiRjw5
+d6K1OBNHqzEucwmrGZUqqKgBANQhiEefVfMXcuMGzm+JXxScr20sXcTW9c9mmVPP
+TA0N
+=CyZt
 -----END PGP SIGNATURE-----
