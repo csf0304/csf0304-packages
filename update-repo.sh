@@ -20,14 +20,13 @@ fi
 rm -f Packages Packages.gz Release InRelease
 
 echo "生成 aarch64 架构 Packages..."
-cd dists/stable/main/binary-aarch64
-dpkg-scanpackages ../../../../pool/main /dev/null > Packages
 cd "$REPO_DIR"
+# 使用正确的路径生成
+dpkg-scanpackages pool/main /dev/null | sed 's|^Filename: ./|Filename: ../../../pool/main/|' > dists/stable/main/binary-aarch64/Packages
 
 echo "生成 all 架构 Packages..."
-cd dists/stable/main/binary-all  
-dpkg-scanpackages ../../../../pool/main /dev/null > Packages
-cd "$REPO_DIR"
+cd "$REPO_DIR"  
+dpkg-scanpackages pool/main /dev/null | sed 's|^Filename: ./|Filename: ../../../pool/main/|' > dists/stable/main/binary-all/Packages
 
 echo "压缩 Packages 文件..."
 gzip -k -f dists/stable/main/binary-aarch64/Packages
@@ -52,6 +51,9 @@ echo "签名 Release 文件..."
 cd dists/stable
 gpg --clearsign -o InRelease Release
 cd "$REPO_DIR"
+
+echo "导出公钥..."
+gpg --export --armor csf0304 > csf0304.asc
 
 echo "✅ 本地更新完成"
 
