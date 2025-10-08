@@ -35,10 +35,10 @@ gzip -k -f dists/stable/main/binary-all/Packages
 echo "生成 Release 文件..."
 cd dists/stable
 cat > Release << EOF
-Origin: csf0304
+Origin: csf0304 Repo
 Label: csf0304 Repo
 Suite: csf0304
-Codename: stable
+Codename: csf0304
 Architectures: aarch64 all
 Components: main
 Description: csf0304's Termux package repository
