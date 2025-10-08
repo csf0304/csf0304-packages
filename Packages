@@ -2,7 +2,7 @@ Package: contacts-manager
 Version: 1.0-1
 Architecture: aarch64
 Maintainer: Your Name <your@email.com>
-Filename: ./contacts.deb
+Filename: ./main/contacts.deb
 Size: 2670324
 MD5sum: 7f0ea0ebebbfdb7e371f5c85d94dc46b
 SHA1: bbd4badc46de06c9c64257e14d62175958d81e3b
@@ -18,7 +18,7 @@ Version: 1.0-4
 Architecture: all
 Maintainer: senyyds <1494621359@qq.com>
 Depends: bash, python, nodejs, php, clang, openjdk-17
-Filename: ./interaction.deb
+Filename: ./main/interaction.deb
 Size: 1660
 MD5sum: adf8dfab3f5a5c886fccbae786683fda
 SHA1: 3efa3d8e661fe7b3ed2208ece5b7cde764accd86
