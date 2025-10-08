@@ -37,8 +37,8 @@ cd dists/stable
 cat > Release << EOF
 Origin: csf0304 Repo
 Label: csf0304 Repo
-Suite: csf0304
-Codename: stable
+Suite: csf0304-packages
+Codename: stable-packages
 Architectures: aarch64 all
 Components: main
 Description: csf0304's Termux package repository

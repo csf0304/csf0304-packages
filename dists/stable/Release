@@ -1,33 +1,33 @@
 Origin: csf0304 Repo
 Label: csf0304 Repo
-Suite: csf0304
-Codename: stable
+Suite: csf0304-packages
+Codename: stable-packages
 Architectures: aarch64 all
 Components: main
 Description: csf0304's Termux package repository
-Date: Wed, 08 Oct 2025 12:02:40 +0000
-Date: Wed, 08 Oct 2025 12:02:40 +0000
+Date: Wed, 08 Oct 2025 12:12:55 +0000
+Date: Wed, 08 Oct 2025 12:12:55 +0000
 MD5Sum:
- 270e928f6c350cde10690c8f862248e4              242 Release
+ 6614b77ccac5821ae7c32ad047f7f634              260 Release
  fa940e14df4ef3a411d45106a8d06eb0             1153 main/binary-aarch64/Packages
- b6be1ab6c7e44005e275048a68560181              694 main/binary-aarch64/Packages.gz
+ 41df27a6b60ad12f0a4123fe1a3a2c58              694 main/binary-aarch64/Packages.gz
  fa940e14df4ef3a411d45106a8d06eb0             1153 main/binary-all/Packages
- 7bcfc0ed65a9729b54a9a28bfe027839              694 main/binary-all/Packages.gz
+ 41df27a6b60ad12f0a4123fe1a3a2c58              694 main/binary-all/Packages.gz
 SHA1:
- ee783588db10c69ff94a3b418916e74654bdc855              242 Release
+ 9101e631ba4a2fa84033d4e7c205aadb4b76a145              260 Release
  67eddbba7c0c6e4d25537c89acfdf526d1f5c6c1             1153 main/binary-aarch64/Packages
- 1cf09f816df51f30cb2e7bc8e7684de23886ee6a              694 main/binary-aarch64/Packages.gz
+ eb986b3218db2813b3b8f74027739ba22d1a3ecd              694 main/binary-aarch64/Packages.gz
  67eddbba7c0c6e4d25537c89acfdf526d1f5c6c1             1153 main/binary-all/Packages
- 8db528e1a659c1ef6d3ed0d824544100190aa245              694 main/binary-all/Packages.gz
+ eb986b3218db2813b3b8f74027739ba22d1a3ecd              694 main/binary-all/Packages.gz
 SHA256:
- 30cb12b464cc7b618c2a37070050ab7a66fff494f0646e1f5d6a400dfe5aac5b              242 Release
+ f391c4176816ff196777a1cafa8da2680b2a235f4c035db40fdd1d90853c4317              260 Release
  4cf2f6f5a3219689360e0a791cf49ade718cd5505156499f40899d67383ae958             1153 main/binary-aarch64/Packages
- dafb3ce9f99d69fd7d151ac569b5452e28817996a6fd015f7ddfea117fff5374              694 main/binary-aarch64/Packages.gz
+ ca594a430bfba40da4f8a42bcff75a2779e55b5ef2b4ff94610bdfe4bf5326f3              694 main/binary-aarch64/Packages.gz
  4cf2f6f5a3219689360e0a791cf49ade718cd5505156499f40899d67383ae958             1153 main/binary-all/Packages
- 03d01c18019e948d973e174f4f56da1f10894182f81dc36fb794d6135858c686              694 main/binary-all/Packages.gz
+ ca594a430bfba40da4f8a42bcff75a2779e55b5ef2b4ff94610bdfe4bf5326f3              694 main/binary-all/Packages.gz
 SHA512:
- 7295d76670df0171733e843e209c7e346d670bb65656d1969b5674c202aec958a02717019afc27f1be8ffc4dea36005dbacfedc1efb5aadc926f57ebad93fe36              242 Release
+ 97a011f8daf04bfd5dd16103e05934ab35c4696e7dc16513969552c19f40c9fa386437defa733e8458502338f3eac933d4373709846af9e5654740fedbf04426              260 Release
  3f971a194d8a3ecf453472ba0e25a87417a4500467c4c4eaac9dfd67f8f7896f951620338f66c45e4944ca66d5f7b087b99cd110566a31a6e5fa17408d20042d             1153 main/binary-aarch64/Packages
- ca03d21c10362d3b86dcae554ddd1877b78ea9f86f4318c07d478d0e748b52a7b74325b4f4bfc62fc9a310e46eca26689558b317de25b7574c3c555ec599aea1              694 main/binary-aarch64/Packages.gz
+ 7ba49deb609dea6bd12352052324d9f242c1401dc9716ad966fe4a805d561c09bd4f39573f0a78f3864f5619b54227a09c6be9f9add1b2f5700c72bb16c72194              694 main/binary-aarch64/Packages.gz
  3f971a194d8a3ecf453472ba0e25a87417a4500467c4c4eaac9dfd67f8f7896f951620338f66c45e4944ca66d5f7b087b99cd110566a31a6e5fa17408d20042d             1153 main/binary-all/Packages
- 9fe437317a39798693e8309bb41851e3f53cb337a864dce2440d620f4c9cc36b15c99a4b9142acf05248e1cf0bce4e8e8d888d60a61cb710f43832bd34acfa7d              694 main/binary-all/Packages.gz
+ 7ba49deb609dea6bd12352052324d9f242c1401dc9716ad966fe4a805d561c09bd4f39573f0a78f3864f5619b54227a09c6be9f9add1b2f5700c72bb16c72194              694 main/binary-all/Packages.gz
