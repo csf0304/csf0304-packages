@@ -1,0 +1,32 @@
+Package: contacts-manager
+Version: 1.0-1
+Architecture: aarch64
+Maintainer: Your Name <your@email.com>
+Filename: ../../../../pool/main/contacts.deb
+Size: 2670324
+MD5sum: 7f0ea0ebebbfdb7e371f5c85d94dc46b
+SHA1: bbd4badc46de06c9c64257e14d62175958d81e3b
+SHA256: b96c9af08d6ac056609c542d9c14c31937a283fb58fa51d3c16eed0427d89a38
+Section: utils
+Priority: optional
+Description: A contact management system written in C++
+ A comprehensive contact management system with add, delete, modify,
+ search and display functions.
+
+Package: interaction
+Version: 1.0-4
+Architecture: all
+Maintainer: senyyds <1494621359@qq.com>
+Depends: bash, python, nodejs, php, clang, openjdk-17
+Filename: ../../../../pool/main/interaction.deb
+Size: 1660
+MD5sum: adf8dfab3f5a5c886fccbae786683fda
+SHA1: 3efa3d8e661fe7b3ed2208ece5b7cde764accd86
+SHA256: 8915f57aae0d6282d49fa62cf690833052c9f44eaa54deff6a87f49cf2417060
+Section: utils
+Priority: optional
+Description: Interactive multi-language code runner
+ This is a compilation kit that can achieve interactive operation.
+ You can use it to quickly run Java, PHP, JavaScript, Python, C++ programs.
+ Features: interactive menu, support for 5 programming languages.
+
