@@ -37,7 +37,7 @@ cd dists/stable
 cat > Release << EOF
 Origin: csf0304 Repo
 Label: csf0304 Repo
-Suite: csf0304
+Suite: stable
 Codename: csf0304
 Architectures: aarch64 all
 Components: main
