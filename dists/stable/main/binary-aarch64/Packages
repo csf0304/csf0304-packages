@@ -30,3 +30,17 @@ Description: Interactive multi-language code runner
  You can use it to quickly run Java, PHP, JavaScript, Python, C++ programs.
  Features: interactive menu, support for 5 programming languages.
 
+Package: vet
+Version: 1.0.0
+Architecture: aarch64
+Maintainer: csf0304 <w16511686982@outlook.com>
+Filename: pool/main/vet.deb
+Size: 4424
+MD5sum: fe1af7ac71296b53e0e788d60ce35fd6
+SHA1: 38d3e357f1ecca037047162f05311fc9635e61e1
+SHA256: cbf21fdb9e65862b3db4818ef11d707c145f4ed62523427a5157d2a3964e203e
+Section: editors
+Priority: optional
+Description: Lightweight text editor for Termux
+ A simple and fast terminal-based text editor designed specifically for Termux environment.
+
